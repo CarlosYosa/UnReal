@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 1" itemID="58deb30c-00000039" lastModified="1490989836">
+  <timeline>
+    <DOMTimeline name="Símbolo 1">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3BA2B2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2940 870S2[2940 1230 2509 1485!2509 1485[2447 1522 2416 1606!2416 1606[2379 1707 2406 1836!2406 1836[2476 2178 2950 2573!2950 2573[2467 2514 1979 2119!1979 2119[1756 1926 1672 1856!1672 1856[1533 1740 1470 1740!1470 1740[861 1740 430
+ 1485!430 1485[0 1230 0 870!0 870[0 510 430 255!430 255[861 0 1470 0!1470 0[2079 0 2509 255!2509 255[2940 510 2940 870"/>
+                    <Edge cubics="!2509 255(;2796,425 2940,630 2940,870q2509 255Q2940 510q2940 870);"/>
+                    <Edge cubics="!0 870(;0,630 143,425 430,255q0 870Q0 510q430 255);"/>
+                    <Edge cubics="!430 255(;717,85 1064,0 1470,0q430 255Q861 0q1470 0);"/>
+                    <Edge cubics="!1470 1740(;1064,1740 717,1655 430,1485q1470 1740Q861 1740q430 1485);"/>
+                    <Edge cubics="!2940 870(;2940,1110 2796,1315 2509,1485q2940 870Q2940 1230q2509 1485);"/>
+                    <Edge cubics="!2509 1485(;2365,1570 2230,1973 2950,2573q2509 1485Q2447 1522q2416 1606Q2379 1707q2406 1836Q2476 2178q2950 2573);"/>
+                    <Edge cubics="!2950 2573(;2130,2473 1673,1740 1470,1740q2950 2573Q2467 2514q1979 2119Q1756 1926q1672 1856Q1533 1740q1470 1740);"/>
+                    <Edge cubics="!430 1485(;143,1315 0,1110 0,870q430 1485Q0 1230q0 870);"/>
+                    <Edge cubics="!1470 0(;1876,0 2222,85 2509,255q1470 0Q2079 0q2509 255);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
